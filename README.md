@@ -1,2 +1,3 @@
 # JS-Assignment
-Giaic Q2 Assugnment
+Giaic Q2 Assignment
+JavaScript Assignments
