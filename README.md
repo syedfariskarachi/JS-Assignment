@@ -1,3 +1,3 @@
 # JS-Assignment
-Giaic Q2 Assignment
+Giaic Q2 
 JavaScript Assignments
